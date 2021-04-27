@@ -6,7 +6,7 @@ body {
 /* Home */
 #Home {
     background: url("Polygon 2.svg") no-repeat;
-    background-size: auto;
+    background-size: contain;
 }
 
 nav {
