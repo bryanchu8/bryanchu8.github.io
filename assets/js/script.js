@@ -2,7 +2,8 @@
 new TypeIt("#intro-name", {
     strings: "Hi I'm Bryan!",
     speed: 125,
-    loop: false
+    loop: false,
+    cursor: false
   }).go();
 
 // Jump.js library
